@@ -26,6 +26,10 @@ GTKWave – For waveform viewing
 
 
 
+![image alt](https://github.com/Shivaaaydv/AND-Gate/blob/0188c17f15b0459252e6735e31f4e60537027612/AND%20Gate%20Waveform.png)
+
+
+
 
 
 
